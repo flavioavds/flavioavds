@@ -31,7 +31,8 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
    
 - [Recriando página Instagram](https://github.com/flavioavds/recriando-pagina-instagram-github)
 - [Meus Certificados](https://github.com/flavioavds/meus-certificados)
+- [Recriando Pagina Instagram HTML/CSS](https://github.com/flavioavds/recriando-pagina-instagram-github)
            
 ---
             
-#### Autor Flavio Augusto
+#### 👨🏻‍🎓 Autor Flavio Augusto
