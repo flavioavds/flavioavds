@@ -30,6 +30,7 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
 ## 📂 Repositorio
    
 - [Recriando página Instagram](https://github.com/flavioavds/recriando-pagina-instagram-github)
+- [Meus Certificados](https://github.com/flavioavds/meus-certificados)
            
 ---
             
