@@ -32,6 +32,7 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
 - [Recriando página Instagram](https://github.com/flavioavds/recriando-pagina-instagram-github)
 - [Meus Certificados](https://github.com/flavioavds/meus-certificados)
 - [Recriando Pagina Instagram HTML/CSS](https://github.com/flavioavds/recriando-pagina-instagram-github)
+- [Curso HTML5 e CSS3](https://github.com/flavioavds/curso-html-e-css3)
            
 ---
             
