@@ -1,43 +1,19 @@
 <h1 align="center">
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/word.png" alt="world" width="300"/>
+            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/globoworld2.gif" alt="world" width="900"/>
 </h1>
 
 <a href="https://www.linkedin.com/in/flavio-augusto-venancio-de-souza-9083981a3" target="_blank"><img src="https://github.com/flavioavds/apresentacao-github/blob/master/linkdin.png" alt="linkdin" width="50"></a>
+
+Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
 
 ---
 
 ## 👨‍🎓 Apresentação
 
-<table>
-    <tr align="center">
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="40"/>
-        </td>
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="50"/>
-        </td>
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="80"/>
-        </td>
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="110"/>
-        </td>
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="140"/>
-        </td>
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="170"/>
-        </td>
-        <td>
-            <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra.gif" alt="homemletra" width="200"/>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="7">
-            <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;"Conhecimento que nunca se acaba, apenas cresce"</p>
-        </td>
-    <tr>
-<table>
+<h1>
+    <img src="https://github.com/flavioavds/apresentacao-github/blob/master/homemletra2.gif" alt="homemletra" width="auto"/>
+</h1>
+
 
 ---
 <p align="justify">
