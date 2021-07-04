@@ -34,6 +34,7 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
 - [Curso HTML5 e CSS3](https://github.com/flavioavds/curso-html-e-css3)
 - [Meus Certificados](https://github.com/flavioavds/meus-certificados)
 - [Costruindo Sites com BOOTSTRAP](https://github.com/flavioavds/construindo-sites-bootstrap)
+- [Criando o Jogo da Cobrinha](https://github.com/flavioavds/projeto-cobrinha)
            
 ---
             
