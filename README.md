@@ -34,6 +34,9 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
 <a href="https://venancioimoveis.netlify.app/" target="_blank"><img src="https://github.com/flavioavds/apresentacao-github/blob/master/venancio-imoveis.png" alt="Netlify" width="80">Clique aqui para ver o projeto</a>
 
 - [Participação da semana spring react](https://github.com/flavioavds/dsmovie)
+
+<a href="https://treinamento-spring-e-react.netlify.app/" target="_blank"><img src="https://github.com/flavioavds/apresentacao-github/blob/master/file_type_netlify_icon_130354.png" alt="Netlify">Clique aqui para ver o projeto</a>
+
 - [Recriando página Netflix](https://github.com/flavioavds/recriando-Netflix)
 - [Recriando Pagina Instagram HTML/CSS](https://github.com/flavioavds/recriando-pagina-instagram-github)
 - [Curso HTML5 e CSS3](https://github.com/flavioavds/curso-html-e-css3)
