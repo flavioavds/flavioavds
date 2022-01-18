@@ -31,7 +31,7 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
    
 - [Construção de um site de uma imobiliaria](https://github.com/flavioavds/site-imoveis)
 
-<a href="https://https://venancioimoveis.netlify.app/" target="_blank"><img src="https://github.com/flavioavds/apresentacao-github/blob/master/file_type_netlify_icon_130354.png" alt="Netlify"></a>
+<a href="https://venancioimoveis.netlify.app/" target="_blank"><img src="https://github.com/flavioavds/apresentacao-github/blob/master/file_type_netlify_icon_130354.png" alt="Netlify"></a>
 
 Clique na imagem do Netlify **para ser direcionado** ao projeto
 
