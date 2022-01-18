@@ -30,9 +30,9 @@ Clique na imagem do Linkedin **para ser direcionado** ao meu perfil
 ## 📂 Repositorio
    
 - [Construção de um site de uma imobiliaria](https://github.com/flavioavds/site-imoveis)
-- [Visualização do site da imobiliaria pelo Netlity](https://https://venancioimoveis.netlify.app/)
+- [Visualização do site da imobiliaria pelo Netlity](venancioimoveis.netlify.app/)
 - [Participação da semana spring react](https://github.com/flavioavds/dsmovie)
-- [Site no Netlify da semana spring react](https://treinamento-spring-e-react.netlify.app/)
+- [Site no Netlify da semana spring react](treinamento-spring-e-react.netlify.app/)
 - [Recriando página Netflix](https://github.com/flavioavds/recriando-Netflix)
 - [Recriando Pagina Instagram HTML/CSS](https://github.com/flavioavds/recriando-pagina-instagram-github)
 - [Curso HTML5 e CSS3](https://github.com/flavioavds/curso-html-e-css3)
